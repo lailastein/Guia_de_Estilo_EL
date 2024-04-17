@@ -25,7 +25,7 @@ Após a introdução da funcionalidade a próxima informação a ser fornecida d
 
 > Exemplo: cadastre, descreva, insira, copie, detalhe, numere, etc.
 
-* Ao descrever um caminho do sistema, utilize os sinais e maior e menor (><) e o texto negrito. Não é necessário a inserção de aspas duplas ("").
+* Ao descrever um caminho do sistema, utilize os sinais de maior e menor (><) e o texto negrito. Não é necessário a inserção de aspas duplas ("").
 
 > Exemplo: Acesse a tela no menu **Dívida Ativa > Dívida Ativa > Carteira - Dívida Ativa**.
 
