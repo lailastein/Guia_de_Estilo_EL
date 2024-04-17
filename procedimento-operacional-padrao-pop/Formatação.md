@@ -3,7 +3,7 @@
 ## Fonte, tamanho e cor
 A fonte a ser utilizada será "Arial" em tamanho 12 no corpo do texto, em tamanho 9 para o registro da atualização (DD/MM/AAAA) e 16 para o título do documento.
 
-![POP](https://drive.google.com/file/d/16-OqPcwfN1iIo6y8V5RQCTg7cugHnjSc/view?usp=sharing)
+![image](https://github.com/lailastein/guiadeestilo/assets/157158368/78b9c566-db13-42e6-81e8-a9e7bc3b5a17)
 
 ## Diagramação
 Todo o texto deve estar configurado em 1,5 de espaço de entrelinhas com seu alinhamento justificado.
