@@ -61,13 +61,13 @@ Depois de dois pontos (:) sempre começar com letra minúscula, a não ser que i
 
 > No ícone **“Opções”** temos algumas outras ações que podem ser executadas:
 >
-> ● **Lançar Dados Cálculo em Batch**: Quando somente essa opção é selecionada são lançados os cálculos simulados, não tendo ainda lançamento de parcela ou DAM;
+> ● **Lançar Dados Cálculo em Batch**: quando somente essa opção é selecionada são lançados os cálculos simulados, não tendo ainda lançamento de parcela ou DAM;
 >
-> ● **Lançar Imposto (DAM) em Batch**: Quando essa opção é selecionada após ter sido feita a simulação do cálculo (Lançar Dados Cálculo em Batch), o sistema irá realizar o lançamento dos parcelas do cálculo e o DAM para pagamento;
+> ● **Lançar Imposto (DAM) em Batch**: quando essa opção é selecionada após ter sido feita a simulação do cálculo (Lançar Dados Cálculo em Batch), o sistema irá realizar o lançamento dos parcelas do cálculo e o DAM para pagamento;
 >
-> ● **Lançar Novas Parcelas do novo Vencimento em Batch**: Muda as datas de vencimento das parcelas não pagas em lançamentos que não foram pagos;
+> ● **Lançar Novas Parcelas do novo Vencimento em Batch**: muda as datas de vencimento das parcelas não pagas em lançamentos que não foram pagos;
 >
-> ● **Lançar Novas Parcelas do novo Vencimento em Batch para Pagamento em Andamento em Batch**: Gera os cálculos e muda as datas de vencimento das parcelas não pagas, mesmo com pagamento em andamento;
+> ● **Lançar Novas Parcelas do novo Vencimento em Batch para Pagamento em Andamento em Batch**: gera os cálculos e muda as datas de vencimento das parcelas não pagas, mesmo com pagamento em andamento;
 
 Todo nome de campo, aba, tela, menu, opção, botão e mensagem, devem estar em negrito e entre aspas.
 
