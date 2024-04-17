@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Arquitetura da Informação
 
 Antes de iniciar a escrita do documento, tenha certeza que entendeu bem o funcionamento da funcionalidade e todos os seus compenentes. Isso evitará que interrompa a documentação no meio, além de poupas tempo do setor de teste ou de programação.&#x20;
