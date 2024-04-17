@@ -7,7 +7,7 @@ description: >-
 
 # Procedimento Operacional Padrão - POP
 
-### Obejetivo
+### Objetivo
 
 Procedimento Operacional Padrão (POP) é um documento para orientar os passos necessários para a execução das tarefas. Sua função é vital na empresa, pois é um dos responsáveis por garantir maior qualidade e eficiência em suas atividades, nivelando todo o padrão de execução das demandas e esclarecendo possíveis dúvidas.
 
