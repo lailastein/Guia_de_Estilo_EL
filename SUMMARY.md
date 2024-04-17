@@ -1,4 +1,4 @@
-# Table of contents
+# Tópicos
 
 * [Procedimento Operacional Padrão - POP](README.md)
   * [Regras de Formatação](procedimento-operacional-padrao-pop/regras-de-formatacao.md)
