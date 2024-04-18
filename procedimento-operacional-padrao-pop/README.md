@@ -1,2 +1,0 @@
-# procedimento-operacional-padrao-pop
-
