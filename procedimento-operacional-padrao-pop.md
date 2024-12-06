@@ -1,2 +1,0 @@
-# Procedimento Operacional Padrão - POP
-

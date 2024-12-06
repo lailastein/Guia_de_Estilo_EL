@@ -1,6 +1,6 @@
 # Arquitetura da Informação
 
-<p style="text-align: justify">Antes de iniciar a escrita do documento, tenha certeza que entendeu bem o funcionamento da funcionalidade e todos os seus compenentes. Isso evitará que interrompa a documentação no meio, além de poupas tempo do setor de teste ou de programação.</p>
+Antes de iniciar a escrita do documento, tenha certeza que entendeu bem o funcionamento da funcionalidade e todos os seus compenentes. Isso evitará que interrompa a documentação no meio, além de poupas tempo do setor de teste ou de programação.
 
 Para ter mais informações sobre a funcionalidade, pesquise no sistema de protocolo pelo processo que a originou. No processo existem anotações dos programadores e de quem testou a funcionalidade, auxiliando no entendimento da sua função.
 
@@ -8,7 +8,7 @@ Para ter mais informações sobre a funcionalidade, pesquise no sistema de proto
 
 Todo POP deve começar descrevendo qual o nome do sistema, depois o nome da funcinalidade que será descrita.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Introdução
 
@@ -16,7 +16,7 @@ O primeiro parágrafo do POP deve ser utilizada para introduzir o nome da funcio
 
 ### Localização da funcionalidade
 
-<p style="text-align: justify">Após a introdução da funcionalidade a próxima informação a ser fornecida deve ser onde ela será encontrada. A partir de agora as ações serão listadas como um passo-a-passo, sendo listadas primeiro as ações obrigatórias para realizar as demais, e elas devem ser numeradas em ordem.</p>
+Após a introdução da funcionalidade a próxima informação a ser fornecida deve ser onde ela será encontrada. A partir de agora as ações serão listadas como um passo-a-passo, sendo listadas primeiro as ações obrigatórias para realizar as demais, e elas devem ser numeradas em ordem.
 
 > 1. Acesse a tela no menu Fiscalização > Fiscalização > Solicitação de Ação Fiscal.
 > 2. Na tela aberta é possível cadastrar uma nova solicitação selecionando o ícone “+Novo”. Inicie o cadastro da solicitação informando obrigatoriamente qual a “Data a Solicitação” está sendo realizada, em “Tipo Fiscalização” selecione que tipo de emissor será fiscalizado, qual a “Data de Previsão de início” da fiscalização e qual a “Data da Previsão Final” da fiscalização.
