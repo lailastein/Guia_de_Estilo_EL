@@ -13,6 +13,6 @@
   * [Transformando texto em áudio](Áudio/audio.md)
   * [Convertento texto para áudio](audio/novoaudio.md)
 
-## Group 1
+## Tributário
 
-* [Contribuintes Manutenção](group-1/contribuintes-manutencao.md)
+* [Contribuintes Manutenção](tributario/contribuintes-manutencao.md)
