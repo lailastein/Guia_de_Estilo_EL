@@ -1,31 +1,38 @@
+---
+description: >-
+  A tela de contribuintes manutenção é utilizada para o cadastro e controle de
+  imóveis, pessoas e empresas que possuem, ou já possuíram, alguma atividade
+  controlada pelo município. Nessa tela serão cada
+---
+
 # Contribuintes Manutenção
 
-1. Para acessá-la, vá ao menu Tributário > Cadastro de Contribuintes > Contribuinte Manutenção. A tela de pesquisa será aberta e, para dar início a um novo cadastro, selecione o ícone azul “+Novo”.
-2. Será aberta uma janela onde é necessário preencher qual o “Tipo de Contribuinte” será cadastrado. O contribuinte pode ser de alguns tipos, que variam entre os municípios, sendo os três mais comuns:
+1. Para acessá-la, vá ao menu Tributário > Cadastro de Contribuintes > Contribuinte Manutenção. A tela de pesquisa será aberta e, para dar início a um novo cadastro, selecione o ícone azul **“+Novo”**.
+2. Será aberta uma janela onde é necessário preencher qual o **“Tipo de Contribuinte”** será cadastrado. O contribuinte pode ser de alguns tipos, que variam entre os municípios, sendo os três mais comuns:
 
-* Imobiliário: quando são cadastrados novos imóveis sujeitos a cobranças municipais como Imposto Predial, Iluminação Pública, entre outros;
-* Econômico: quando são cadastrados prestadores de serviço localizados dentro do município;
-* Eventual: quando existem prestadores de serviço que possuem sede em município diferente de onde o cadastro está sendo realizado, mas prestaram algum serviço nele;
-* Dívida Não Tributária: quando são cadastrados contribuintes específicos que possuem Dívidas Ativas Não Tributárias junto ao município;
+* **Imobiliário**: quando são cadastrados novos imóveis sujeitos a cobranças municipais como Imposto Predial, Iluminação Pública, entre outros;
+* **Econômico**: quando são cadastrados prestadores de serviço localizados dentro do município;
+* **Eventual**: quando existem prestadores de serviço que possuem sede em município diferente de onde o cadastro está sendo realizado, mas prestaram algum serviço nele;
+* **Dívida Não Tributária**: quando são cadastrados contribuintes específicos que possuem Dívidas Ativas Não Tributárias junto ao município;
 
-3. Selecione o tipo referente ao cadastro que está realizando e clique em “Confirmar”. A tela principal de preenchimento ficará disponível para edição e, no primeiro momento, somente a aba lateral esquerda “Contribuinte Manutenção” estará disponível para edição. Nela existem outras duas abas, “Contribuinte” e “Ficha do Contribuinte”.
-4. Na aba “Contribuinte”, os campos podem ou não ser de preenchimento obrigatório, dependendo da configuração realizada no cadastro dos tipos de contribuinte (Tributário > Arquivos > Arquivos de Configuração > Tipo de Contribuinte).
-5. No campo “Pessoa”, pesquise e selecione a pessoa (Corporativo > Pessoas > Pessoas) que será vinculada ao contribuinte. Caso a pessoa ainda não esteja cadastrada no sistema, clique no ícone azul “Três pontos” e depois no ícone verde “+” para realizar o cadastro. O ícone “Lápis” serve para realizar edição de uma pessoa já cadastrada e o ícone “Menu” para consultar o cadastro da pessoa que foi selecionada.
-6. Informe a “Matrícula” do imóvel emitida pelo cartório e em qual “Distrito”, “Setor”, “Quadra”, “Lote”, “Face” e “Unidade” o imóvel está localizado.
-7. No campo “Inscrição”, o método de numeração é determinado pelo município e varia do tipo de contribuinte (Tributário > Arquivos > Arquivos de Configuração > Tipo de Contribuinte).
+3. Selecione o tipo referente ao cadastro que está realizando e clique em **“Confirmar”**. A tela principal de preenchimento ficará disponível para edição e, no primeiro momento, somente a aba lateral esquerda **“Contribuinte Manutenção”** estará disponível para edição. Nela existem outras duas abas, **“Contribuinte”** e **“Ficha do Contribuinte”**.
+4. Na aba **“Contribuinte”**, os campos podem ou não ser de preenchimento obrigatório, dependendo da configuração realizada no cadastro dos tipos de contribuinte (Tributário > Arquivos > Arquivos de Configuração > Tipo de Contribuinte).
+5. No campo **“Pessoa”**, pesquise e selecione a pessoa (Corporativo > Pessoas > Pessoas) que será vinculada ao contribuinte. Caso a pessoa ainda não esteja cadastrada no sistema, clique no ícone azul **“Três pontos”** e depois no ícone verde **“+”** para realizar o cadastro. O ícone **“Lápis”** serve para realizar edição de uma pessoa já cadastrada e o ícone **“Menu”** para consultar o cadastro da pessoa que foi selecionada.
+6. Informe a **“Matrícula”** do imóvel emitida pelo cartório e em qual **“Distrito”**, **“Setor”**, **“Quadra”**, **“Lote”**, **“Face”** e **“Unidade”** o imóvel está localizado.
+7. No campo **“Inscrição”**, o método de numeração é determinado pelo município e varia do tipo de contribuinte (Tributário > Arquivos > Arquivos de Configuração > Tipo de Contribuinte).
 8. Ela pode ser digitada, sendo numerada pelo usuário que está realizando o cadastro, pode seguir um sequencial a partir do código do contribuinte, pode ser gerada de forma automática por um sequencial de inscrição ou calculada a partir dos dados do contribuinte.
-9. Os campos “CEP”, “Logradouro”, “Bairro”, “Município”, “Número” e “Complemento” devem ser preenchidos obrigatoriamente com as informações específicas de localização do imóvel/empreendimento. Digitando o “CEP” do imóvel e clicando no ícone “Lupa” o sistema buscará as informações no banco de dados e preencherá alguns dos campos com as informações existentes.
+9. Os campos **“CEP”**, **“Logradouro”**, **“Bairro”**, **“Município”**, **“Número”** e **“Complemento”** devem ser preenchidos obrigatoriamente com as informações específicas de localização do imóvel/empreendimento. Digitando o **“CEP”** do imóvel e clicando no ícone **“Lupa”** o sistema buscará as informações no banco de dados e preencherá alguns dos campos com as informações existentes.
 
-**Observação 1:** Existe no ícone  “Opções” localizado acima da aba “Contribuinte”, a possibilidade de copiar o endereço presente no cadastro da pessoa em “Copiar Endereço Geral”. Selecionando essa opção, os campos referentes ao endereço do contribuinte serão preenchidos com as informações vindas do cadastro da pessoa informada anteriormente.
+**Observação 1:** Existe no ícone  **“Opções”** localizado acima da aba **“Contribuinte”**, a possibilidade de copiar o endereço presente no cadastro da pessoa em **“Copiar Endereço Geral”**. Selecionando essa opção, os campos referentes ao endereço do contribuinte serão preenchidos com as informações vindas do cadastro da pessoa informada anteriormente.
 
-**Observação 2:** Ao salvar, caso o endereço fornecido seja igual a um contribuinte já cadastrado para o mesmo “Tipo de Contribuinte”, será mostrada a mensagem “Existe(m) outro(s) cadastro(s) com o mesmo endereço. Deseja prosseguir?”. Caso clique em “Sim” o cadastro será salvo. Caso clique em “Não” a tela retornará ao contribuinte manutenção sem salvar para poderem ser realizadas as alterações no endereço.
+**Observação 2:** Ao salvar, caso o endereço fornecido seja igual a um contribuinte já cadastrado para o mesmo **“Tipo de Contribuinte”**, será mostrada a mensagem **“Existe(m) outro(s) cadastro(s) com o mesmo endereço. Deseja prosseguir?”**. Caso clique em **“Sim”** o cadastro será salvo. Caso clique em **“Não”** a tela retornará ao contribuinte manutenção sem salvar para poderem ser realizadas as alterações no endereço.
 
-6. Informe em qual “Data Inicial” o imóvel teve seu registro, em qual “Data Final” ele teve sua baixa realizada, qual o “Processo Inicial” que deu origem a esse imóvel e qual o “Processo Final” foi criado para a sua baixa. No campo “Data alteração”, informe a data em que se teve alteração no cadastro que pode interferir nos cálculos do contribuinte.
-7. Em “Segmento” pesquise e selecione pelo segmento de logradouro que o imóvel está inserido. Esse segmento pode interferir nos cálculos do contribuinte caso o município realize a vinculação em sua fórmula de cálculo.
-8. O campo “Situação” já se encontra preenchido com a situação configurada na tela de tipo de contribuinte (Tributário > Arquivos > Arquivos de Configuração > Tipo de Contribuinte). Ela pode ser alterada quando o contribuinte for baixado, suspenso, bloqueado, entre outros.
-9. No campo “Solicitação Inscrição” selecione o meio em que ela foi solicitada (nenhum ou ofício) e insira qual o “Memorial” descritivo presente na documentação de registro do cartório, caso for pertinente.
-10. Em “Coordenadas”, clicando no ícone do “Mapa”, será aberta a tela com o mapa para seleção da localização.
-11. Com o mapa aberto, clique no ícone “Alfinete” localizado na lateral esquerda e marque o local do endereço. Confirmando que a localização está correta, clique em “Salvar Marcação”. Retornando à tela anterior, os campos “Latitude” e “Longitude” serão preenchidos com as coordenadas do alfinete posicionado na tela do mapa. Caso tenha feito uma marcação errada, selecione o ícone azul “Limpar Coordenadas” que elas serão deletadas e você poderá realizar uma nova marcação.
+6. Informe em qual **“Data Inicial”** o imóvel teve seu registro, em qual **“Data Final”** ele teve sua baixa realizada, qual o **“Processo Inicial”** que deu origem a esse imóvel e qual o **“Processo Final”** foi criado para a sua baixa. No campo **“Data alteração”**, informe a data em que se teve alteração no cadastro que pode interferir nos cálculos do contribuinte.
+7. Em **“Segmento”** pesquise e selecione pelo segmento de logradouro que o imóvel está inserido. Esse segmento pode interferir nos cálculos do contribuinte caso o município realize a vinculação em sua fórmula de cálculo.
+8. O campo **“Situação”** já se encontra preenchido com a situação configurada na tela de tipo de contribuinte (Tributário > Arquivos > Arquivos de Configuração > Tipo de Contribuinte). Ela pode ser alterada quando o contribuinte for baixado, suspenso, bloqueado, entre outros.
+9. No campo **“Solicitação Inscrição”** selecione o meio em que ela foi solicitada (nenhum ou ofício) e insira qual o **“Memorial”** descritivo presente na documentação de registro do cartório, caso for pertinente.
+10. Em **“Coordenadas”**, clicando no ícone do **“Mapa”**, será aberta a tela com o mapa para seleção da localização.
+11. Com o mapa aberto, clique no ícone **“Alfinete”** localizado na lateral esquerda e marque o local do endereço. Confirmando que a localização está correta, clique em “Salvar Marcação”. Retornando à tela anterior, os campos **“Latitude”** e **“Longitude”** serão preenchidos com as coordenadas do alfinete posicionado na tela do mapa. Caso tenha feito uma marcação errada, selecione o ícone azul **“Limpar Coordenadas”** que elas serão deletadas e você poderá realizar uma nova marcação.
 12. Nos contribuintes do cadastro mobiliário/econômico, também existe o campo para informar a “Inscrição Imobiliária” do imóvel utilizado para exercer as atividades.
 13. Em “Situação Temporal do Registro” podem ser definidas as datas de “Vigência Inicial” e “Vigência Final” que o registro do contribuinte pode ter, caso for necessário.
 14. A aba “Ficha do Contribuinte” é utilizada pelo município para serem informadas as características do contribuinte que irão compor seu boletim de cadastro, seja ele imobiliário, mobiliário, eventual, entre outros. As informações seguirão o que é necessário para o município realizar uma correta tributação do contribuinte. Logo, cada município possui suas particularidades no boletim de cadastro e cada um possui uma ficha do contribuinte diferente.
