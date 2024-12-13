@@ -12,7 +12,7 @@
 * [Áudio](audio/README.md)
   * [Transformando texto em áudio](Áudio/audio.md)
   * [Convertento texto para áudio](audio/novoaudio.md)
-
-## Tributário
-
-* [Contribuintes Manutenção](tributario/contribuintes-manutencao.md)
+* [TRIBUTÁRIO](tributario/README.md)
+  * [Contribuintes Manutenção](tributario/contribuintes-manutencao.md)
+* [TAXAS](taxas/README.md)
+  * [Extrato do Contribuinte](taxas/extrato-do-contribuinte.md)
